@@ -12715,7 +12715,7 @@ body.h5p-embed .h5pmessages {
     border-right: 0; } }
 
 .navbar {
-  max-height: 50px; }
+  max-height: 500px; }
 
 /* calendar.less */
 .calendar_event_category {
